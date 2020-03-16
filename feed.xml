@@ -1,64 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>科学自学网</title>
-    <link href="https://wolflash666.github.io/html5/feed.xml" rel="self" />
-    <link href="https://wolflash666.github.io/html5" />
-    <updated>2020-02-28T23:18:10+08:00</updated>
+    <title>初中科学互动课堂</title>
+    <link href="https://wolflash666.github.io/publii/feed.xml" rel="self" />
+    <link href="https://wolflash666.github.io/publii" />
+    <updated>2020-03-16T13:38:01+08:00</updated>
     <author>
         <name>陈凯</name>
     </author>
-    <id>https://wolflash666.github.io/html5</id>
+    <id>https://wolflash666.github.io/publii</id>
 
     <entry>
-        <title>1.2电生磁</title>
+        <title>测试请</title>
         <author>
             <name>陈凯</name>
         </author>
-        <link href="https://wolflash666.github.io/html5/12-dian-sheng-ci.html"/>
-        <id>https://wolflash666.github.io/html5/12-dian-sheng-ci.html</id>
-            <category term="课程"/>
+        <link href="https://wolflash666.github.io/publii/ce-shi-qing.html"/>
+        <id>https://wolflash666.github.io/publii/ce-shi-qing.html</id>
 
-        <updated>2020-02-28T14:51:42+08:00</updated>
+        <updated>2020-03-16T12:13:21+08:00</updated>
             <summary>
                 <![CDATA[
-                    主要内容有
+                    啊实打实大苏打是的阿三 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                主要内容有
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>1.1.1指南针为什么能指方向</title>
-        <author>
-            <name>陈凯</name>
-        </author>
-        <link href="https://wolflash666.github.io/html5/111-zhi-nan-zhen-wei-shi-me-neng-zhi-fang-xiang.html"/>
-        <id>https://wolflash666.github.io/html5/111-zhi-nan-zhen-wei-shi-me-neng-zhi-fang-xiang.html</id>
-            <category term="课程"/>
-
-        <updated>2020-02-28T23:05:21+08:00</updated>
-            <summary>
-                <![CDATA[
-                    互动html5测试// 
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                互动html5测试
-<script type="text/javascript" src="player/rlplayer.js"></script>
-<script type="text/javascript" src="player/rlplayer.lang.zh-CN.js"></script>
-<div id="BSjBIkDf" class="ap-prez-container" dir="ltr" lang="zh-CN">
-<script type="text/javascript">// <![CDATA[
-			AtomiAP.open("rlprez.js", "BSjBIkDf", {
-				playMode: "Test",
-				preloader: {zIndex: 2,diameter: 60,density: 9,range: 1000,speed: 1,color:'#2090E6',shape:'oval'}
-			});
-		
-// ]]></script>
-</div>
+                啊实打实大苏打是的阿三 <img class="post__image" src="https://wolflash666.github.io/publii/media/posts/1/timgVZ9G8IME.jpg" alt="" width="500" height="500">
             ]]>
         </content>
     </entry>

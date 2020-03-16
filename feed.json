@@ -1,44 +1,27 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "科学自学网",
+    "title": "初中科学互动课堂",
     "description": "",
-    "home_page_url": "https://wolflash666.github.io/html5",
-    "feed_url": "https://wolflash666.github.io/html5/feed.json",
+    "home_page_url": "https://wolflash666.github.io/publii",
+    "feed_url": "https://wolflash666.github.io/publii/feed.json",
     "user_comment": "",
-    "icon": "https://wolflash666.github.io/html5/media/website/uugai.com_1582901085809.png",
     "author": {
         "name": "陈凯"
     },
     "items": [
         {
-            "id": "https://wolflash666.github.io/html5/12-dian-sheng-ci.html",
-            "url": "https://wolflash666.github.io/html5/12-dian-sheng-ci.html",
-            "title": "1.2电生磁",
-            "summary": "主要内容有",
-            "content_html": "主要内容有",
+            "id": "https://wolflash666.github.io/publii/ce-shi-qing.html",
+            "url": "https://wolflash666.github.io/publii/ce-shi-qing.html",
+            "title": "测试请",
+            "summary": "啊实打实大苏打是的阿三 ",
+            "content_html": "啊实打实大苏打是的阿三 <img class=\"post__image\" src=\"https://wolflash666.github.io/publii/media/posts/1/timgVZ9G8IME.jpg\" alt=\"\" width=\"500\" height=\"500\">",
             "author": {
                 "name": "陈凯"
             },
             "tags": [
-                   "课程"
             ],
-            "date_published": "2020-02-28T14:14:40+08:00",
-            "date_modified": "2020-02-28T14:51:42+08:00"
-        },
-        {
-            "id": "https://wolflash666.github.io/html5/111-zhi-nan-zhen-wei-shi-me-neng-zhi-fang-xiang.html",
-            "url": "https://wolflash666.github.io/html5/111-zhi-nan-zhen-wei-shi-me-neng-zhi-fang-xiang.html",
-            "title": "1.1.1指南针为什么能指方向",
-            "summary": "互动html5测试// ",
-            "content_html": "互动html5测试\n<script type=\"text/javascript\" src=\"player/rlplayer.js\"></script>\n<script type=\"text/javascript\" src=\"player/rlplayer.lang.zh-CN.js\"></script>\n<div id=\"BSjBIkDf\" class=\"ap-prez-container\" dir=\"ltr\" lang=\"zh-CN\">\n<script type=\"text/javascript\">// <![CDATA[\n\t\t\tAtomiAP.open(\"rlprez.js\", \"BSjBIkDf\", {\n\t\t\t\tplayMode: \"Test\",\n\t\t\t\tpreloader: {zIndex: 2,diameter: 60,density: 9,range: 1000,speed: 1,color:'#2090E6',shape:'oval'}\n\t\t\t});\n\t\t\n// ]]></script>\n</div>",
-            "author": {
-                "name": "陈凯"
-            },
-            "tags": [
-                   "课程"
-            ],
-            "date_published": "2020-02-28T14:14:15+08:00",
-            "date_modified": "2020-02-28T23:05:21+08:00"
+            "date_published": "2020-03-16T12:13:21+08:00",
+            "date_modified": "2020-03-16T12:13:21+08:00"
         }
     ]
 }
