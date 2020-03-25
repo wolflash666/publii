@@ -3,30 +3,10 @@
     <title>初中科学互动课堂</title>
     <link href="https://wolflash666.github.io/publii/feed.xml" rel="self" />
     <link href="https://wolflash666.github.io/publii" />
-    <updated>2020-03-19T23:36:37+08:00</updated>
+    <updated>1970-01-01T08:00:00+08:00</updated>
     <author>
         <name>陈凯</name>
     </author>
     <id>https://wolflash666.github.io/publii</id>
 
-    <entry>
-        <title>测试请</title>
-        <author>
-            <name>陈凯</name>
-        </author>
-        <link href="https://wolflash666.github.io/publii/ce-shi-qing.html"/>
-        <id>https://wolflash666.github.io/publii/ce-shi-qing.html</id>
-
-        <updated>2020-03-16T12:13:21+08:00</updated>
-            <summary>
-                <![CDATA[
-                    啊实打实大苏打是的阿三 
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                啊实打实大苏打是的阿三 <img class="post__image" src="https://wolflash666.github.io/publii/media/posts/1/timgVZ9G8IME.jpg" alt="" width="500" height="500">
-            ]]>
-        </content>
-    </entry>
 </feed>
