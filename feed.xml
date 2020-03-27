@@ -3,10 +3,31 @@
     <title>初中科学互动课堂</title>
     <link href="https://wolflash666.github.io/publii/feed.xml" rel="self" />
     <link href="https://wolflash666.github.io/publii" />
-    <updated>1970-01-01T08:00:00+08:00</updated>
+    <updated>2020-03-27T09:45:12+08:00</updated>
     <author>
         <name>陈凯</name>
     </author>
     <id>https://wolflash666.github.io/publii</id>
 
+    <entry>
+        <title>直接修改网页代码实现加快html5视频播放速度</title>
+        <author>
+            <name>陈凯</name>
+        </author>
+        <link href="https://wolflash666.github.io/publii/zhi-jie-xiu-gai-wang-ye-dai-ma-shi-xian-jia-kuai-html5-shi-pin-bo-fang-su-du.html"/>
+        <id>https://wolflash666.github.io/publii/zhi-jie-xiu-gai-wang-ye-dai-ma-shi-xian-jia-kuai-html5-shi-pin-bo-fang-su-du.html</id>
+            <category term="网页实用JS"/>
+
+        <updated>2020-03-27T09:45:08+08:00</updated>
+            <summary>
+                <![CDATA[
+                    现在有不少的视频网站，自带了播放加速的功能，例如油管、bilibili、慕课等等。 在一些付费的网站中，一些自带的播放器是不支持视频加速的，因为已经被加速惯坏，变得很不习惯，在网上查阅资料，也找到了在线视频的加速的解决方法，这边做一个记录。 主要标志是****标签，这种是最方便实现加速的，因为原生支持。 defaultPlaybackRate (float): The playback speed at which the video should be played playbackRate (float): The current playback speed: 1.0 is normal, 2.0 is two times faster forward -3.0 is three times faster backwards and so on 可以在对应的网页console中加入以下js代码实现视频加速（来源） /* play video twice as&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                现在有不少的视频网站，自带了播放加速的功能，例如油管、bilibili、慕课等等。<br>在一些付费的网站中，一些自带的播放器是不支持视频加速的，因为已经被加速惯坏，变得很不习惯，在网上查阅资料，也找到了在线视频的加速的解决方法，这边做一个记录。<br><br>主要标志是****标签，这种是最方便实现加速的，因为原生支持。<br>defaultPlaybackRate (float): The playback speed at which the video should be played<br>playbackRate (float): The current playback speed: 1.0 is normal, 2.0 is two times faster<br>forward -3.0 is three times faster backwards and so on<br>可以在对应的网页console中加入以下js代码实现视频加速（来源）<br><br><code>/* play video twice as fast */</code><br><code>document.querySelector('video').defaultPlaybackRate = 2.0;//默认两倍速播放</code><br><code>document.querySelector('video').play();</code><br><br><code>/* now play three times as fast just for the heck of it */</code><br><code>document.querySelector('video').playbackRate = 3.0; //修改此值设置当前的播放倍数</code><br><br>按F12找到对应的播放标签，如图所示是标签，也可选择左上方的选择按钮快速找到标签<br>点击console,在下列复制代码点击回车则可以看到播放的视频已经加速。
+            ]]>
+        </content>
+    </entry>
 </feed>
