@@ -11,6 +11,36 @@
     },
     "items": [
         {
+            "id": "https://wolflash666.github.io/publii/zuo-shi-pin-ruan-jian.html",
+            "url": "https://wolflash666.github.io/publii/zuo-shi-pin-ruan-jian.html",
+            "title": "做视频软件",
+            "summary": "1.录屏 OBS Studio 2.编辑 AVS VIDEOS EDITOR 、VAGES 3.声音 SOUND FORGE 4.字幕 Aegisub 、Subtitle Edit 5.图片 光影魔术手",
+            "content_html": "<p>1.录屏 OBS Studio</p>\n<p>2.编辑 AVS VIDEOS EDITOR 、VAGES</p>\n<p>3.声音 SOUND FORGE</p>\n<p>4.字幕 Aegisub 、Subtitle Edit</p>\n<p>5.图片 光影魔术手</p>",
+            "author": {
+                "name": "陈凯"
+            },
+            "tags": [
+                   "做视频"
+            ],
+            "date_published": "2020-04-01T10:41:48+08:00",
+            "date_modified": "2020-04-01T10:42:07+08:00"
+        },
+        {
+            "id": "https://wolflash666.github.io/publii/youtu.html",
+            "url": "https://wolflash666.github.io/publii/youtu.html",
+            "title": "youtube",
+            "summary": "https://via.hypothes.is/if_/https://www.youtube.com/ https://via.hypothes.is/https://www.google.com/ if_/",
+            "content_html": "<p><a href=\"https://via.hypothes.is/if_/https://www.youtube.com/\">https://via.hypothes.is/if_/https://www.youtube.com/</a></p>\n<p>https://via.hypothes.is/https://www.google.com/</p>\n<p>if_/</p>",
+            "author": {
+                "name": "陈凯"
+            },
+            "tags": [
+                   "YTB视频"
+            ],
+            "date_published": "2020-04-01T10:35:16+08:00",
+            "date_modified": "2020-04-01T10:35:16+08:00"
+        },
+        {
             "id": "https://wolflash666.github.io/publii/mo-fei-ding-lu.html",
             "url": "https://wolflash666.github.io/publii/mo-fei-ding-lu.html",
             "title": "墨菲定律",

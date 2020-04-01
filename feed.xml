@@ -3,12 +3,60 @@
     <title>666文摘</title>
     <link href="https://wolflash666.github.io/publii/feed.xml" rel="self" />
     <link href="https://wolflash666.github.io/publii" />
-    <updated>2020-03-29T00:04:33+08:00</updated>
+    <updated>2020-04-01T10:42:12+08:00</updated>
     <author>
         <name>陈凯</name>
     </author>
     <id>https://wolflash666.github.io/publii</id>
 
+    <entry>
+        <title>做视频软件</title>
+        <author>
+            <name>陈凯</name>
+        </author>
+        <link href="https://wolflash666.github.io/publii/zuo-shi-pin-ruan-jian.html"/>
+        <id>https://wolflash666.github.io/publii/zuo-shi-pin-ruan-jian.html</id>
+            <category term="做视频"/>
+
+        <updated>2020-04-01T10:42:07+08:00</updated>
+            <summary>
+                <![CDATA[
+                    1.录屏 OBS Studio 2.编辑 AVS VIDEOS EDITOR 、VAGES 3.声音 SOUND FORGE 4.字幕 Aegisub 、Subtitle Edit 5.图片 光影魔术手
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>1.录屏 OBS Studio</p>
+<p>2.编辑 AVS VIDEOS EDITOR 、VAGES</p>
+<p>3.声音 SOUND FORGE</p>
+<p>4.字幕 Aegisub 、Subtitle Edit</p>
+<p>5.图片 光影魔术手</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>youtube</title>
+        <author>
+            <name>陈凯</name>
+        </author>
+        <link href="https://wolflash666.github.io/publii/youtu.html"/>
+        <id>https://wolflash666.github.io/publii/youtu.html</id>
+            <category term="YTB视频"/>
+
+        <updated>2020-04-01T10:35:16+08:00</updated>
+            <summary>
+                <![CDATA[
+                    https://via.hypothes.is/if_/https://www.youtube.com/ https://via.hypothes.is/https://www.google.com/ if_/
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><a href="https://via.hypothes.is/if_/https://www.youtube.com/">https://via.hypothes.is/if_/https://www.youtube.com/</a></p>
+<p>https://via.hypothes.is/https://www.google.com/</p>
+<p>if_/</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>墨菲定律</title>
         <author>
