@@ -3,12 +3,29 @@
     <title>666文摘</title>
     <link href="https://www.zhis.fun/feed.xml" rel="self" />
     <link href="https://www.zhis.fun" />
-    <updated>2020-04-02T23:02:45+08:00</updated>
+    <updated>2020-04-11T21:49:55+08:00</updated>
     <author>
         <name>陈凯</name>
     </author>
     <id>https://www.zhis.fun</id>
 
+    <entry>
+        <title>B站视频转发</title>
+        <author>
+            <name>陈凯</name>
+        </author>
+        <link href="https://www.zhis.fun/20200211-ba-nian-ji-ke-xue-_-zhang-nuo-_112-zhi-nan-zhen-wei-shi-me-neng-zhi-fang-xiang.html"/>
+        <id>https://www.zhis.fun/20200211-ba-nian-ji-ke-xue-_-zhang-nuo-_112-zhi-nan-zhen-wei-shi-me-neng-zhi-fang-xiang.html</id>
+
+        <updated>2020-04-11T21:49:26+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__video"><video width="661" height="638" controls="controls">
+<source src="https://www.bilibili.com/video/BV1sQ4y1K7EV/" /></video></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>github pages+阿里云域名绑定搭建个人博客</title>
         <author>
