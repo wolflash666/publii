@@ -3,37 +3,49 @@
     <title>666文摘</title>
     <link href="https://www.zhis.fun/feed.xml" rel="self" />
     <link href="https://www.zhis.fun" />
-    <updated>2020-04-11T22:38:30+08:00</updated>
+    <updated>2020-06-12T23:58:54+08:00</updated>
     <author>
         <name>陈凯</name>
     </author>
     <id>https://www.zhis.fun</id>
 
     <entry>
-        <title>B站视频转发</title>
+        <title>同步课程的新思路</title>
+        <author>
+            <name>陈凯</name>
+        </author>
+        <link href="https://www.zhis.fun/tong-bu-ke-cheng-de-xin-si-lu.html"/>
+        <id>https://www.zhis.fun/tong-bu-ke-cheng-de-xin-si-lu.html</id>
+
+        <updated>2020-06-12T23:58:31+08:00</updated>
+            <summary>
+                <![CDATA[
+                    以课本PDF，讲解知识点，重难点，并配以练习、说明等。花开
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                以课本PDF，讲解知识点，重难点，并配以练习、说明等。
+<figure class="post__image post__image post__image--center" ><img src="https://www.zhis.fun/media/posts/8/0001.png" alt="" width="4208" height="2960">
+<figcaption >花开</figcaption>
+</figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>blob视频转发</title>
         <author>
             <name>陈凯</name>
         </author>
         <link href="https://www.zhis.fun/20200211-ba-nian-ji-ke-xue-_-zhang-nuo-_112-zhi-nan-zhen-wei-shi-me-neng-zhi-fang-xiang.html"/>
         <id>https://www.zhis.fun/20200211-ba-nian-ji-ke-xue-_-zhang-nuo-_112-zhi-nan-zhen-wei-shi-me-neng-zhi-fang-xiang.html</id>
 
-        <updated>2020-04-11T22:38:05+08:00</updated>
-            <summary>
-                <![CDATA[
-                     若要查看此视频，请启用JavaScript，并考虑升级到Web浏览器支持HTML5 video。 
-                ]]>
-            </summary>
+        <updated>2020-04-11T22:41:54+08:00</updated>
+            <summary></summary>
         <content type="html">
             <![CDATA[
-                <video width="300" height="150" style="width: 100%; height: 100%;" id="my-player_html5_api" class="vjs-tech" webkit-playsinline="" playsinline="playsinline" tabindex="-1" preload="auto" loop="loop" src="blob:http://h5.nty.tv189.com/d437fd3b-d2cc-44c5-918a-d822b37b125b" __idm_id__="54161409">
-
-                    <p class="vjs-no-js">
-
-                        若要查看此视频，请启用JavaScript，并考虑升级到Web浏览器支持HTML5 video。
-
-                    </p>
-
-                </video>
+                <figure class="post__video"><video width="663" height="640" controls="controls">
+<source src="http://vod3.nty.tv189.cn/6/ol/st02/2020/04/08/Q600_ff23b9a9-feca-44c3-9705-adf7a39aabaa.mp4.m3u8?sign=cb59f3293d93a81968eaef5ea5f9bc4f&amp;qualityCode=315&amp;version=1&amp;guid=4b76d533-4495-b324-4d51-c73b5c3d36d1&amp;app=115010310149&amp;cookie=1d6935d9d0587528b83a180d9949ab11&amp;session=1d6935d9d0587528b83a180d9949ab11&amp;uid=0&amp;uname=10000000000&amp;time=20200411222401&amp;videotype=2&amp;cid=C42690676&amp;cname=&amp;cateid=&amp;dev=000001&amp;ep=1&amp;os=30&amp;ps=0099&amp;clienttype=android&amp;appver=&amp;res=&amp;channelid=01833310&amp;pid=1000000523&amp;orderid=SUCC&amp;nid=&amp;cp=00000172&amp;sp=00000014&amp;ip=39.186.14.252&amp;ipSign=603978b233cdc478c0a4dc4fde004049&amp;cdntoken=api_5e91d3013dfe9&amp;a=FqOvuJ3%2FSbaw80WRS6%2FeAu0ml45eRQKy&amp;pvv=&amp;t=5e920b41&amp;cf=tx&amp;s2=a87ff679a2f3e71d9181a67b7542122c" /></video></figure>
             ]]>
         </content>
     </entry>
