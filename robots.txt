@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://wolflash666.github.io/publii/sitemap.xml
+Sitemap: https://blog.202091.xyz/sitemap.xml
