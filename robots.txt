@@ -1,3 +1,2 @@
 User-agent: *
 Disallow:
-Sitemap: https://blog.202091.xyz/sitemap.xml
